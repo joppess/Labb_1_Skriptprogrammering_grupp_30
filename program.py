@@ -1,3 +1,7 @@
-from modules import show_divided_numbers
+import modules
 
-print(show_divided_numbers(7, 11))
+print(modules.show_divided_numbers(7, 11))
+
+modules.start_game()
+
+print ("slut ")
